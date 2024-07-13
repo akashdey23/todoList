@@ -1,0 +1,101 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+.header1{
+  background-color: #575757;
+  height: 20vh;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 4rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  color: white;
+}
+.header2{
+  background-color: #5757579c;
+  height: 20vh;
+  width: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 4rem;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  color: white;
+}
+
+.header2 button{
+  height: 3rem;
+  width: 6.5rem;
+  background-color: burlywood;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  cursor: pointer;
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: none;
+}
+
+
+.header2 button:hover{
+  background-color: #333;
+  font-size: 1.6rem;
+  color: white;
+  border: none;
+
+}
+
+.header2 input{
+  height: 3rem;
+  width: 65rem;
+  background-color: burlywood;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  /* font-weight: 400; */
+  /* cursor: pointer; */
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-left: 20px;
+  border: none;
+}
+
+.header3{
+  background-color: #5757574e;
+  height: 20vh;
+  width: auto;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1.25rem;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  color: black;
+}
+
+.header3 button{
+  height: 3rem;
+  width: 6.5rem;
+  background-color: burlywood;
+  border-radius: 10px;
+  font-size: 1.5rem;
+  font-weight: 700;
+  cursor: pointer;
+  color: black;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: none;
+}
+
+
+.header3 button:hover{
+  background-color: #333;
+  font-size: 1.6rem;
+  color: white;
+  border: none;
+
+}
